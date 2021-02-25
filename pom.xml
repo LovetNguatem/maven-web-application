@@ -96,16 +96,16 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://52.86.173.227:8081/ltech/repository/eBay-release/</url>
-	    </repository>
+              <id>nexus</id>
+              <name>Mithun Technologies Releases Nexus Repository</name>
+              <url>http://52.87.216.200:8081/ltech/repository/eBay-release/</url>
+            </repository>
 	    
-	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://52.86.173.227:8081/ltech/repository/eBay-snapshot/</url>
-	    </snapshotRepository>
+	  <snapshotRepository>
+              <id>nexus</id>
+              <name>Mithun Technologies Snapshot Nexus Repository </name>
+              <url>http://52.87.216.200:8081/ltech/repository/eBay-snapshot/</url>
+            </snapshotRepository>
 	    
 	</distributionManagement>
 	
