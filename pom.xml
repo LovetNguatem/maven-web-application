@@ -104,7 +104,7 @@
 	  <snapshotRepository>
               <id>nexus</id>
               <name>Mithun Technologies Snapshot Nexus Repository </name>
-              <url>http://54.237.216.55:8081/ltech/repository/eBay-snapshot/</url>
+              <url>http://54.237.216.55:8081/ltech/repository/eBay-release/</url>
             </snapshotRepository>
 	    
 	</distributionManagement>
