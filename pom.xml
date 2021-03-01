@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http:44.192.27.149:9000/</sonar.host.url>
+		<sonar.host.url>http:34.237.52.193:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>admin</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -98,13 +98,13 @@
 	    <repository>
               <id>nexus</id>
               <name>Mithun Technologies Releases Nexus Repository</name>
-              <url>http://52.86.173.227:8081/ltech/repository/eBay-release/</url>
+              <url>http://54.237.216.55:8081/ltech/repository/eBay-release/</url>
             </repository>
 	    
 	  <snapshotRepository>
               <id>nexus</id>
               <name>Mithun Technologies Snapshot Nexus Repository </name>
-              <url>http://52.86.173.227:8081/ltech/repository/eBay-snapshot/</url>
+              <url>http://54.237.216.55:8081/ltech/repository/eBay-snapshot/</url>
             </snapshotRepository>
 	    
 	</distributionManagement>
