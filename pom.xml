@@ -104,13 +104,13 @@
 	  <snapshotRepository>
               <id>nexus</id>
               <name>Mithun Technologies Snapshot Nexus Repository </name>
-              <url>http://54.237.216.55:8081/ltech/repository/eBay-release/</url>
+              <url>http://54.237.216.55:8081/ltech/repository/eBay-snapshot/</url>
             </snapshotRepository>
 	    
 	</distributionManagement>
 	
 	<build>
-		<finalName>Landmark</finalName>
+		<finalName>boa_web_app_pip</finalName>
 		
 		<plugins>
 			<plugin>
